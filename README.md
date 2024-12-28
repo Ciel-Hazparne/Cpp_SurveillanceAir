@@ -1,5 +1,5 @@
 # Projet 2023 Surveillance de la qualité de l’air dans une salle de classe
-**Nils développement Arduino/C++**
+**Nils, développement Arduino/C++**
 
 ## Mission : progammation Arduino + IHM sur PC
 Fonctions :
