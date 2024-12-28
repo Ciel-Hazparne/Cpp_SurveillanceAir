@@ -1,0 +1,42 @@
+<NotepadPlus>
+    <Project name="AIR">
+        <File name="AIR.ino" />
+        <File name="appli.h" />
+        <File name="appli.cpp" />
+        <File name="mqtt.h" />
+        <File name="mqtt.cpp" />
+        <File name="http.cpp" />
+        <File name="http.h" />
+        <File name="wifi.cpp" />
+        <File name="wifi.h" />
+        <File name="temps.h" />
+        <File name="temps.cpp" />
+        <File name="air.txt" />
+        <File name="air.prj" />
+        <Folder name="ORG">
+            <File name="ORG\MKR1010_WifiNina_Mqtt_Http.ino" />
+            <File name="ORG\Application.cpp" />
+            <File name="ORG\Application.h" />
+            <File name="ORG\arduino_secrets.h" />
+            <File name="ORG\Http.cpp" />
+            <File name="ORG\Http.h" />
+            <File name="ORG\leWifi.cpp" />
+            <File name="ORG\leWifi.h" />
+            <File name="ORG\MQTT.cpp" />
+            <File name="ORG\MQTT.h" />
+            <Folder name="WEMOS">
+                <File name="ORG\ARD_WEMOS\appli.cpp" />
+                <File name="ORG\ARD_WEMOS\appli.h" />
+                <File name="ORG\ARD_WEMOS\ARD_WEMOS.h" />
+                <File name="ORG\ARD_WEMOS\ARD_WEMOS.ino" />
+                <File name="ORG\ARD_WEMOS\HttpReq.cpp" />
+                <File name="ORG\ARD_WEMOS\HttpReq.h" />
+                <File name="ORG\ARD_WEMOS\Mqtt.cpp" />
+                <File name="ORG\ARD_WEMOS\Mqtt.h" />
+                <File name="ORG\ARD_WEMOS\wemos.prj" />
+                <File name="ORG\ARD_WEMOS\wifi.cpp" />
+                <File name="ORG\ARD_WEMOS\wifi.h" />
+            </Folder>
+        </Folder>
+    </Project>
+</NotepadPlus>
